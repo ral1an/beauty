@@ -1,0 +1,10 @@
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    flex-wrap: wrap;
+}
+
+.rights_reserved {
+    text-decoration: none;
+}
